@@ -187,11 +187,11 @@ The table below maps each demo to the exercise it covers.
 
 | Lab | Exercise | Description | Video |
 |-----|----------|-------------|-------|
-| 1 | Exercise 3 | Blink LED | 📎 _Upload Lab 1 demo here_ |
-| 2 | Exercise 1 | Bit-banding — button toggles RGB LED | 📎 _Upload Lab 2 demo here_ |
-| 3 | Exercise 2 | Button interrupt with debouncing | 📎 _Upload Lab 3 demo here_ |
-| 4 | Exercise 2 | Non-volatile reset counter | 📎 _Upload Lab 4 demo here_ |
-| 5 | Exercise 2 | GPIO oscillator verified on oscilloscope | 📎 _Upload Lab 5 demo here_ |
+| 1 | Exercise 3 | Blink LED |  |
+| 2 | Exercise 1 | Bit-banding — button toggles RGB LED |  |
+| 3 | Exercise 2 | Button interrupt with debouncing |  |
+| 4 | Exercise 2 | Non-volatile reset counter |  |
+| 5 | Exercise 2 | GPIO oscillator verified on oscilloscope |  |
 
 ---
 
