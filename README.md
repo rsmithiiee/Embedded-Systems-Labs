@@ -1,4 +1,4 @@
-# CMPE 146 — Embedded Systems Lab Portfolio
+# CMPE 146 — Embedded Systems Labs
 
 Lab reports and firmware exercises for **CMPE 146 - Real-Time Embedded System Co-Design**.  
 Each lab builds on the previous, progressing from bare-metal C on the MSP432 to a full RTOS-based multitasking application.
