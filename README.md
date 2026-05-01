@@ -199,8 +199,5 @@ The table below maps each demo to the exercise it covers.
 
 ## Support & Resources
 
-- [MSP432P401R LaunchPad User's Guide](https://www.ti.com/lit/ug/slau597f/slau597f.pdf)
-- [MSP432P4xx Technical Reference Manual](https://www.ti.com/lit/ug/slau356i/slau356i.pdf)
-- [SimpleLink MSP432 SDK Documentation](https://dev.ti.com/tirex/explore/node?node=A__ADiAMI1pFzEjcVELJfkRpA__com.ti.SIMPLELINK_MSP432P4_SDK__T7QdAt7__LATEST)
-- [TI-RTOS Kernel User's Guide](https://software-dl.ti.com/dsps/dsps_public_sw/sdo_sb/targetcontent/tirtos/2_21_01_08/exports/docs/TI_Build_System_User_s_Guide.pdf)
+- [MSP430 Micontroller Device Documents]([https://www.ti.com/lit/ug/slau597f/slau597f.pdf](https://dev.ti.com/tirex/explore/node?isTheia=false&node=ACmHMTUKODOT9KJKrdqKyw))
 - [Code Composer Studio IDE](https://www.ti.com/tool/CCSTUDIO)
