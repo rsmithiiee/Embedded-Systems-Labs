@@ -199,5 +199,5 @@ The table below maps each demo to the exercise it covers.
 
 ## Support & Resources
 
-- [MSP430 Micontroller Device Documents]([https://www.ti.com/lit/ug/slau597f/slau597f.pdf](https://dev.ti.com/tirex/explore/node?isTheia=false&node=ACmHMTUKODOT9KJKrdqKyw))
+- [MSP430 Micontroller Device Documents](https://www.ti.com/lit/ug/slau597f/slau597f.pdf](https://dev.ti.com/tirex/explore/node?isTheia=false&node=ACmHMTUKODOT9KJKrdqKyw))
 - [Code Composer Studio IDE](https://www.ti.com/tool/CCSTUDIO)
