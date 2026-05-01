@@ -5,7 +5,7 @@ Each lab builds on the previous, progressing from bare-metal C on the MSP432 to 
 
 **Hardware:** Texas Instruments MSP432P401R LaunchPad  
 **IDE / Toolchain:** Code Composer Studio (CCS) + MSP432 DriverLib SDK  
-**Language:** C (bare-metal) → TI-RTOS (later labs)
+**Language:** C → TI-RTOS (later labs)
 
 ---
 
