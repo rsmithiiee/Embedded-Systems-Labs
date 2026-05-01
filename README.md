@@ -46,7 +46,7 @@ Each lab builds on the previous, progressing from bare-metal C on the MSP432 to 
 
 ### Prerequisites
 
-- **Code Composer Studio** 12.x or later — [download](https://www.ti.com/tool/CCSTUDIO)
+- **Code Composer Studio** 12.x or later
 - **MSP432 SDK** (SimpleLink MSP432P4 SDK) — install via CCS Resource Explorer
 - **TI-RTOS** (required for Labs 7–8) — available through CCS Resource Explorer
 - **MSP432P401R LaunchPad** evaluation board
