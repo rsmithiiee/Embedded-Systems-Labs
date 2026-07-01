@@ -142,7 +142,7 @@ Uses Timer32 for precise software delays and builds a GPIO-based software oscill
 | Exercise | Description |
 |----------|-------------|
 | 1 | Delay function: implement `delay_ms()` using Timer32 with wrap-around handling |
-| 2 | GPIO oscillator: toggle a pin at a target frequency using the delay function; verify with an oscilloscope |
+| 2 | GPIO oscillator: toggle a pin at a target frequency using the delay function |
 | 3 | Frequency measurement: measure a square wave on an input pin using Timer_A capture mode |
 | 4 | LED control: use frequency measurement feedback to modulate LED brightness |
 
