@@ -177,7 +177,7 @@ Applies RTOS primitives to coordinate concurrent tasks safely.
 | Exercise | Description |
 |----------|-------------|
 | 1 | Semaphore: protect a shared resource between two tasks using a binary semaphore; verify mutual exclusion |
-| 2 | Multiple tasks to compute: split a computation (e.g., matrix multiply or sorting) across cooperating RTOS tasks and measure throughput improvement |
+| 2 | Multiple tasks to compute: split a computation across cooperating RTOS tasks and measure throughput improvement |
 
 ---
 
