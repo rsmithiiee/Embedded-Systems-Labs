@@ -191,7 +191,7 @@ The table below maps each demo to the exercise it covers.
 | 2 | Exercise 1 | Bit-banding — button toggles RGB LED |  |
 | 3 | Exercise 2 | Button interrupt with debouncing |  |
 | 4 | Exercise 2 | Non-volatile reset counter |  |
-| 5 | Exercise 2 | GPIO oscillator verified on oscilloscope |  |
+| 5 | Exercise 2 | GPIO oscillator |  |
 
 ---
 
